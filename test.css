@@ -12,11 +12,12 @@ h1  {
     background-color:aquamarine;
     /* flex-direction: row-reverse; */
     }
-    
+
 .box{
     background-color: red;
     padding: 20px;
     width: 150px;
+    border: 1px solid grey;
 }
 
 .box-2{
